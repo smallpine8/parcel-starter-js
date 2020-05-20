@@ -1,0 +1,19 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "KomatsuNobuyuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KomatsuNobuyuki/parcel-starter-js/issues"
+  },
+  "homepage": "https://github.com/KomatsuNobuyuki/parcel-starter-js#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html -d public -p 8000"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
