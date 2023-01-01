@@ -13,7 +13,7 @@
     "start": "parcel src/index.html -d public -p 8000"
   },
   "devDependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "sass": "^1.26.5"
   }
 }
